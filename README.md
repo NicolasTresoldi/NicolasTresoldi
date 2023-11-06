@@ -14,7 +14,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Informações sobre Nicolas</title>
+  <title>Information about Nicolas</title>
 </head>
 <body>
   <p>Pronomes: He / Him</p>
