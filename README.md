@@ -18,7 +18,7 @@
 </head>
 <body>
   <p>Pronomes: He / Him</p>
-  <p>Linguagens de código:</p>
+  <p>Code Languages:</p>
   <ul>
     <li>HTML</li>
     <li>CSS</li>
