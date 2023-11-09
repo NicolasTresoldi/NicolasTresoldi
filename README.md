@@ -23,7 +23,6 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>Python</li>
-    <li>Javascript</li>
   </ul>
 </body>
 </html>
