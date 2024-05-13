@@ -23,7 +23,8 @@
   <ul>
     <li>HTML</li>
     <li>CSS</li>
-    <li>Python</li>
+    <li>Js</li>
+    <li>React.Js</li>
   </ul>
 </body>
 </html>
